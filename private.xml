@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+	<item>
+    <name>Change Command+Esc to Command+`</name>
+    <identifier>private.Change_Command+Esc_to_Command+`</identifier>
+    <autogen>__KeyToKey__ 
+    	KeyCode::ESCAPE, ModifierFlag::COMMAND_L,
+    	KeyCode::BACKQUOTE, ModifierFlag::COMMAND_L
+    </autogen>
+  </item>
+</root>
